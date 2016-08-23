@@ -35,7 +35,7 @@ camhx,camhy = 0,0
 -- false: not using occlusion prerender
 -- true: use dynamic occlusion canvi
 -- 8: final shadowmap and occlusion sizes will be GfxSize/2
-cl = Castling:new(256,false,true,4)
+cl = Castling:new(256,false,true,2)
 -- turn blur on
 cl:setBlur(true)
 

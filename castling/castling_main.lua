@@ -104,8 +104,6 @@ function Castling:new(resolution,use_occlusion_fbo,use_dyn_ofb,sm_div)
 	
 	-- active lights
 	self.lights = {}
-	-- all "released" lights go here
-	self.lights_stack = {}
 	
 	-- 1d shadowmap table	
 	self.lookup_fbt = {}
