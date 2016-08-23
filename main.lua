@@ -1,4 +1,6 @@
--- An example usage of Castling engine
+-- 
+
+-- An example usage of Castling engine, tested on 0.10.1
 -- Scene control:
 -- arrows control camera position
 -- Q/A,W/S,E/D  +/- RGB of current lightsource accordingly

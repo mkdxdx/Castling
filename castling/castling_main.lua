@@ -1,3 +1,15 @@
+--[[
+	(ray)Castling by mkdxdx/cval, 2016
+	
+	A light/shadow engine for love2d
+	
+	A collection of shader sources from around the internet to provide some
+	lighting functionality for love2d projects.
+	
+	
+
+]]--
+
 local cf = (...):gsub('%.[^%.]+$', '')
 
 local l_gfx = love.graphics
