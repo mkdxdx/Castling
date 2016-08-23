@@ -3,6 +3,8 @@ Lighting system for LOVE2D
 
 This is my take on light/shadow system for LOVE2D with aim to create something that will render pixel-perfect shadows and will illuminate any scene while being flexible in terms of perfomance according to user's needs.
 
+It contains shaders that i've gathered around on the internets, so some of this code is not mine (i've specified references to its authors) but is adapted to work in love2d environment.
+
 Usage:
 Drop "castling" folder somewhere into root of your love2d project (where your main.lua is).
 Import it somewhere in your project:
