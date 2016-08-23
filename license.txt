@@ -1,0 +1,4 @@
+Castling engine license:
+	- You may use, redistribute or edit this software on any terms you want except claiming it as yours.
+	- Code that is commented with a reference to author is used on terms that it was initially distributed by that author.
+	- Example texture is provided on terms of CC BY 3.0.
