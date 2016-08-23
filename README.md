@@ -36,3 +36,6 @@ love.graphics.setCanvas() -- switch to a "final" canvas which will contain final
 MyInstanceName:obscure(MySceneCanvas,ShadowFunction)
 ```
 Watch your scene enter dark ages.
+
+
+More in example main.lua in this repository.
